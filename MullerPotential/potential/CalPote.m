@@ -1,4 +1,4 @@
-function [PotEn] = CalForce(x, y)
+function [PotEn] = CalPote(x, y)
 
 x0 = [1 0 -0.5 -1];
 y0 = [0 0.5 1.5 1];
