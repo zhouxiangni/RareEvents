@@ -45,7 +45,7 @@ result=zeros(dim,1);
     r = sum(A,2);
     result = x.*(r-A*x);
 
-  % refer to Limit Cycles in Competition Communities
+ % refer to Limit Cycles in Competition Communities
  % by Michael E Gilpin, The American Naturalist. vol 109, No. 965, pp51-60,
  % 1975
  
