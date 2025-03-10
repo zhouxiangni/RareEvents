@@ -1,0 +1,12 @@
+%% PPLANE file %%
+
+H.name = 'ex2.pps';
+H.xvar = 'x';
+H.yvar = 'y';
+H.xder = 'x-x^3/3+y-y^3/9';
+H.yder = 'x+0.9';
+H.pname = {'','','','','',''};
+H.pval = {'','','','','',''};
+H.fieldtype = 'arrows';
+H.npts = 20;
+H.wind = [-2  4 -4  2];
